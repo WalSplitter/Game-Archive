@@ -1,0 +1,9 @@
+A:\Dokumente\Visual Studio 2012\Projects\GameList\GameList\bin\Debug\GameList.exe.config
+A:\Dokumente\Visual Studio 2012\Projects\GameList\GameList\bin\Debug\GameList.exe
+A:\Dokumente\Visual Studio 2012\Projects\GameList\GameList\bin\Debug\GameList.pdb
+A:\Dokumente\Visual Studio 2012\Projects\GameList\GameList\obj\Debug\GameList.csprojResolveAssemblyReference.cache
+A:\Dokumente\Visual Studio 2012\Projects\GameList\GameList\obj\Debug\GameList.Form1.resources
+A:\Dokumente\Visual Studio 2012\Projects\GameList\GameList\obj\Debug\GameList.Properties.Resources.resources
+A:\Dokumente\Visual Studio 2012\Projects\GameList\GameList\obj\Debug\GameList.csproj.GenerateResource.Cache
+A:\Dokumente\Visual Studio 2012\Projects\GameList\GameList\obj\Debug\GameList.exe
+A:\Dokumente\Visual Studio 2012\Projects\GameList\GameList\obj\Debug\GameList.pdb
